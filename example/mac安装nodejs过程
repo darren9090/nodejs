@@ -1,0 +1,9 @@
+
+
+1、ruby -e "$(curl =fsSL https://raw.githubusercontent.com/Homebrew/install/master/install);
+
+2、brew install node
+
+3、node -v
+
+4、npm -v
